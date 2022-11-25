@@ -6,6 +6,7 @@ import { defineUserConfig } from "vuepress";
 export default defineUserConfig({
   lang: "zh-CN",
   title: "前端文档",
+  base: '/learnimg-road/',
   description: "专注于技术的分享和日常开发流程的记录",
   plugins: [
     registerComponentsPlugin({
