@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as s,a as e,b as c}from"./app.b6fa9576.js";const n={},o=e("h1",{id:"页面地址",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#页面地址","aria-hidden":"true"},"#"),c(" 页面地址")],-1),r=[o];function _(d,i){return a(),s("div",null,r)}const h=t(n,[["render",_],["__file","links.html.vue"]]);export{h as default};
